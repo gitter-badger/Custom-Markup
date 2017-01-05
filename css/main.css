@@ -25,6 +25,11 @@ h5 {
 h6{
   font-size: 20px;
 }
+subheading {
+  font-size: 50px;
+  background-color: #DCDCDC;
+  color: 	#A9A9A9;
+}
 .howTo{
   margin-top: 300px;
   padding-bottom: 50px;
