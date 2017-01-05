@@ -33,6 +33,11 @@ subheading {
   color: 	#A9A9A9;
   font-family: Arial;
 }
+ul {
+}
+code {
+  font-size: 20px;
+}
 .howTo{
   margin-top: 300px;
   margin-bottom: 0px;
