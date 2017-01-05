@@ -44,13 +44,11 @@ subheading {
   background-color: #32CD32;
   color: #f5f5f5;
   font-family: 'Quicksand';
+  float:center;
 }
 .howTo p{
   font-size: 25px;
   font-family:  'Quicksand';
-}
-.hContent {
-  float: left;
 }
 .title {
   text-align: center;
