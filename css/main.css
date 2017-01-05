@@ -1,0 +1,12 @@
+body {
+  float: left;
+  text-align: center;
+  overflow-x: hide;
+}
+
+.howTo{
+  margin-top: 300px;
+  padding-bottom: 50px;
+  padding-right: 40px;
+  padding-left: 40px;
+}
