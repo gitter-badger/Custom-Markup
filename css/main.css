@@ -50,3 +50,9 @@ subheading {
   font-size: 25px;
   font-family:  'Quicksand';
 }
+.hContent {
+  float: left;
+}
+.title {
+  float: left;
+}
