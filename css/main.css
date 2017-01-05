@@ -1,5 +1,4 @@
 body {
-  float: left;
   text-align: center;
   overflow-x: hide;
 }
@@ -33,6 +32,9 @@ subheading {
 }
 .howTo{
   margin-top: 300px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
   padding-bottom: 50px;
   padding-right: 40px;
   padding-left: 40px;
