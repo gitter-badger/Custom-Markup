@@ -63,6 +63,9 @@ code {
   padding:15px;
   background-color:black;
   color:white;
+  border-radius: 4px;
+  font-size: 20px;
+  font-family: 'Quicksand';
 }
 .btn:hover {
   background-color: white;
