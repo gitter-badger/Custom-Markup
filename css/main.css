@@ -59,3 +59,14 @@ code {
 .title {
   text-align: center;
 }
+.btn {
+  padding:15px;
+  background-color:black;
+  color:white;
+}
+.btn:hover {
+  background-color: white;
+  color: black;
+  -webkit-transition-duration: 0.7s;
+  transition-duration: 0.7s;
+}
