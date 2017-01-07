@@ -22,3 +22,9 @@ $(document).ready(function(){
     } // End if
   });
 });
+//slide up scroll function
+$(document).ready(function() {
+  $(window).scroll(function() {
+    $('.title').slideUp('slow');  
+  }); 
+});
