@@ -25,6 +25,6 @@ $(document).ready(function(){
 //slide up scroll function
 $(document).ready(function() {
   $('.btn').click(function() {
-    $('.title').slideUp('slow');  
+    $('.title').toggle('slow');  
   }); 
 });
