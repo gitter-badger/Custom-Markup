@@ -55,7 +55,9 @@ code {
   background-color: #32CD32;
   color: #f5f5f5;
   font-family: 'Quicksand';
-  float:center;
+  float:  center;
+  text-align:center;
+  font-size: 35px;
 }
 .howTo p{
   font-size: 25px;
