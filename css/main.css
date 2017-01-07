@@ -48,6 +48,9 @@ ul code {
 code {
   font-size: 20px;
 }
+a {
+  text-decoration:none;
+}
 .howTo{
   margin-top: 1000px;
   margin-bottom: 0px;
