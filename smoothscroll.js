@@ -22,9 +22,5 @@ $(document).ready(function(){
     } // End if
   });
 });
-//slide up scroll function
-$(document).ready(function() {
-  $('.btn').click(function() {
-    $('.title').toggle('slow');  
-  }); 
-});
+
+
