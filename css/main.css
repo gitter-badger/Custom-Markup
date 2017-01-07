@@ -35,6 +35,11 @@ subheading {
   font-family: Arial;
 }
 ul {
+  list-style-type: none;
+  background-color: black;
+  border-radius: 4px;
+  padding 15px;
+  float: center;
 }
 code {
   font-size: 20px;
