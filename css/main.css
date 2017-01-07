@@ -40,6 +40,10 @@ ul {
   border-radius: 4px;
   padding 15px;
   float: center;
+  text-align:left;
+}
+ul code {
+  font-size: 30px;
 }
 code {
   font-size: 20px;
