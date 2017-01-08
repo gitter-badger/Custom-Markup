@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre|Kumar+One|Raleway);
-    c-r {
+@import url('https://fonts.googleapis.com/css?family=Arvo|Bungee+Shade|Indie+Flower');
+c-r {
     color: red;
 }
 c-g {
@@ -47,4 +48,19 @@ cool {
     font-family: Raleway;
 }
 nice {
-    font-family: 'Frank Ruhl Libre'}
+    font-family: 'Frank Ruhl Libre'
+}
+insane {
+    font-family:'Bungee Shade';
+}
+beautiful {
+    font-family:'Indie Flower';
+}
+old {
+    font-family:'Arvo';
+}
+
+
+
+
+
