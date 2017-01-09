@@ -87,3 +87,7 @@ a {
   -webkit-transition-duration: 0.7s;
   transition-duration: 0.7s;
 }
+::selection {
+  color: white;
+  background: #003366;
+}
