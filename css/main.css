@@ -87,6 +87,11 @@ a {
   -webkit-transition-duration: 0.7s;
   transition-duration: 0.7s;
 }
+.github-button {
+  top:100%;
+  left:0%;
+  position:fixed;
+}
 ::selection {
   color: white;
   background: #003366;
