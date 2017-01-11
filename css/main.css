@@ -51,6 +51,11 @@ code {
 }
 a {
   text-decoration:none;
+  color: #4078c0;
+}
+a:visited {
+  text-decoration:none;
+  color: #4078c0;
 }
 .howTo{
   margin-top: 1000px;
