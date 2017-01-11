@@ -41,3 +41,10 @@ $(document).ready(function() {
           $('#load').hide();
         }
       });
+$(document).ready(function() {
+  $('body').load(function() {
+    $('fadein').fadeIn('slow');
+  });
+});
+
+
