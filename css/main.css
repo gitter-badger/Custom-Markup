@@ -90,6 +90,7 @@ a {
 #social {
   bottom: 5%;
   left: 5%;
+  position:fixed;
   z-index: 100;
   margin: 0;
   padding: 0;
