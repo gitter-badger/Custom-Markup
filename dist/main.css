@@ -60,7 +60,8 @@ old {
     font-family:'Arvo';
 }
 container {
-    padding:0.01em 16px
+    padding:0.01em 16px;
+    border: 1px solid white;
 }
 
 
