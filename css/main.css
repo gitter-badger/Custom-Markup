@@ -87,6 +87,13 @@ a {
   -webkit-transition-duration: 0.7s;
   transition-duration: 0.7s;
 }
+#social {
+  bottom: 5%;
+  left: 5%;
+  z-index: 100;
+  margin: 0;
+  padding: 0;
+}
 ::selection {
   color: white;
   background: #003366;
