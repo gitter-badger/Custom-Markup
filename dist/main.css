@@ -63,7 +63,10 @@ container {
     padding:0.01em 16px;
     border: 1px solid white;
 }
-
+ghl-s {
+    text-decoration:none;
+    color: #4078c0;
+}
 
 
 
