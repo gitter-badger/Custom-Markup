@@ -67,6 +67,14 @@ ghl-s {
     text-decoration:none;
     color: #4078c0;
 }
-
-
-
+/* classes */
+.sm {
+    font-size: 15px;
+}
+.med {
+    font-size: 25px;
+}
+.bg {
+    font-size: 50;
+}
+    
