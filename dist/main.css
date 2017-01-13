@@ -1,46 +1,46 @@
 @import url(https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre|Kumar+One|Raleway);
 @import url('https://fonts.googleapis.com/css?family=Arvo|Bungee+Shade|Indie+Flower');
 c-r {
-    color: red;
+    color: #ed1a1a;
 }
 c-g {
-    color: green;
+    color: #36e23c;
 }
 c-b {
-    color: #00f;
+    color: #3b64e2;
 }
 c-o {
-    color: orange;
+    color: #e86909;
 }
 c-y {
-    color: #ff0;
+    color: #ebef07;
 }
 c-i {
-    color: indigo;
+    color: #c339f9;
 }
 c-v {
     color: violet;
 }
 bg-r {
-    background-color: red;
+    background-color: #ed1a1a;
 }
 bg-g {
-    background-color: green;
+    background-color: #36e23c;
 }
 bg-b {
-    background-color: #00f;
+    background-color: #3b64e2;
 }
 bg-o {
-    background-color: orange;
+    background-color: #e86909;
 }
 bg-y {
-    background-color: #ff0;
+    background-color: #ebef07;
 }
 bg-i {
-    background-color: indigo;
+    background-color: #c339f9;
 }
 bg-v {
-    background-color: violet;
+    background-color: #edafda;
 }
 awesome {
     font-family: 'kumar one'}
