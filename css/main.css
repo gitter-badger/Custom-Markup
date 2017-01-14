@@ -92,6 +92,14 @@ a:visited {
   -webkit-transition-duration: 0.7s;
   transition-duration: 0.7s;
 }
+.btn a, visited {
+  padding: 15px;
+  background-color: black;
+  color: white;
+  border-radius: 4px;
+  font-size: 40px;
+  font-family: 'Quicksand';
+}
 #social {
   bottom: 5%;
   left: 5%;
