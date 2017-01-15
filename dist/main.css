@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre|Kumar+One|Raleway);
 @import url('https://fonts.googleapis.com/css?family=Arvo|Bungee+Shade|Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
 c-r {
     color: #ed1a1a;
 }
@@ -62,6 +63,9 @@ old {
 container {
     padding:0.01em 16px;
     border: 1px solid white;
+}
+cursive {
+    font-family: 'Pacifico', cursive;
 }
 ghl-s {
     text-decoration:none;
