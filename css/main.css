@@ -64,37 +64,6 @@ a:visited {
   text-decoration:none;
   color: #4078c0;
 }
-header {
-  box-sizing: border-box;
-  min-height: 40vw;
-  padding: 30vw 0 5vw;
-  position: relative;
-  -webkit-transform-style: inherit;
-  transform-style: inherit;
-  width: 100vw;
-}
-
-header,
-header:before { background: 50% 50% / cover; }
-
-header::before {
-  bottom: 0;
-  content: "";
-  left: 0;
-  position: absolute;
-  right: 0;
-  top: 0;
-  display: block;
-  background-color: #8a8;
-  background-image: url('https://custommarkup.ml/css/assets/code-wallpaper-18.png');
-  background-size: cover;
-  -webkit-transform-origin: center center 0;
-  -webkit-transform: translateZ(-1px) scale(2);
-  transform-origin: center center 0;
-  transform: translateZ(-1px) scale(2);
-  z-index: -1;
-  min-height: 100vh;
-}
 .howTo{
   margin-top:0px;
   margin-bottom: 0px;
@@ -115,6 +84,33 @@ header::before {
 }
 .title {
   text-align: center;
+  box-sizing: border-box;
+  min-height: 40vw;
+  padding: 30vw 0 5vw;
+  position: relative;
+  -webkit-transform-style: inherit;
+  transform-style: inherit;
+  width: 100vw;
+}
+.title,
+.title:before { background: 50% 50% / cover; }
+.title::before {
+  bottom: 0;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  display: block;
+  background-color: #8a8;
+  background-image: url('https://custommarkup.ml/css/assets/code-wallpaper-18.png');
+  background-size: cover;
+  -webkit-transform-origin: center center 0;
+  -webkit-transform: translateZ(-1px) scale(2);
+  transform-origin: center center 0;
+  transform: translateZ(-1px) scale(2);
+  z-index: -1;
+  min-height: 100vh;
 }
 .btn {
   padding:15px;
