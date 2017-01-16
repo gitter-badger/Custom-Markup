@@ -12,7 +12,6 @@ body {
   height: 100%;
   overflow-y: scroll;
   overflow-x: hidden;
-  background: url('https://custommarkup.ml/css/assets/code-wallpaper-18.png') no-repeat fixed center;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: Arial;
@@ -87,7 +86,7 @@ header::before {
   top: 0;
   display: block;
   background-color: #8a8;
-  background-image: url(background.jpg);
+  background-image: url('https://custommarkup.ml/css/assets/code-wallpaper-18.png');
   background-size: cover;
   -webkit-transform-origin: center center 0;
   -webkit-transform: translateZ(-1px) scale(2);
@@ -97,7 +96,7 @@ header::before {
   min-height: 100vh;
 }
 .howTo{
-  margin-top: 1000px;
+  margin-top:0px;
   margin-bottom: 0px;
   margin-left: 0px;
   margin-right: 0px;
