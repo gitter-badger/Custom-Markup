@@ -22,3 +22,6 @@ More Coming Soon
 ## License and Copyright
 Licensed under the MIT License
 Copyright 2017 Talon Bragg
+
+## Build
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
