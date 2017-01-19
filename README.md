@@ -64,8 +64,8 @@ Direct Link: Add this to your `<head>` tag:
 `.bg` is Large
 
 ## License and Copyright
-Licensed under the MIT License
+**Licensed under the MIT License**
 
-:copyright: 2017 Talon Bragg
+:copyright: **2017 Talon Bragg**
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
