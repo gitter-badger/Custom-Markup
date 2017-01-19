@@ -1,4 +1,6 @@
 # Custom-Markup
+<img src="https://custommarkup.ml/css/assets/Custom%20Markup%20Logo.png">
+
 A simple, lightweight html framework
 
 ## About
