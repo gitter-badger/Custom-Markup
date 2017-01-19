@@ -1,7 +1,7 @@
 # Custom-Markup
 <img src="https://custommarkup.ml/css/assets/Custom%20Markup%20Logo.png">
 
-A simple, lightweight html framework
+**A simple and minimal HTML framwork**
 
 ## About
 Custom Markup is a simple, lightweight HTML framework. With Custom Markup, you can customize your webpage without writing messy code. Just link it and your all set. Just read a bit about it though.
