@@ -58,11 +58,11 @@ a {
 }
 a:hover {
    text-decoration:underline;
-   background-color:#f5f5f5;
+   color: #f5f5f5;
 }
 a:visited {
   text-decoration:none;
-  color: #4078c0;
+  color: #f5f5f5;
 }
 .howTo{
   margin-top:1000px;
