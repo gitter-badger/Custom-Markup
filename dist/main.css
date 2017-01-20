@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre|Kumar+One|Raleway);
 @import url('https://fonts.googleapis.com/css?family=Arvo|Bungee+Shade|Indie+Flower');
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=VT323');
 c-r {
     color: #ed1a1a;
 }
@@ -66,6 +67,9 @@ container {
 }
 cursive {
     font-family: 'Pacifico', cursive;
+}
+8-bit{
+ font-family: 'VT323', monospace;   
 }
 ghl-s {
     text-decoration:none;
