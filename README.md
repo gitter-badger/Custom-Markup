@@ -7,7 +7,7 @@
 Custom Markup is a simple, lightweight HTML framework. With Custom Markup, you can customize your webpage without writing messy code. Just link it and your all set. Just read a bit about it though.
 
 ## Changelog
-- **1/20/17**  Add `<eight-bit>` tag 
+- **1/20/17**  Add `<eight-bit>` and `<silhouette>` tags 
 
 ## Documentation
 Direct Link: Add this to your `<head>` tag:
