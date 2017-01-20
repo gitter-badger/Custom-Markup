@@ -59,6 +59,8 @@ Direct Link: Add this to your `<head>` tag:
 
 `<eight-bit>`
 
+`<silhouette>`
+
 `<rainbow>`
 
 `<ghl-s>`
@@ -71,7 +73,7 @@ Direct Link: Add this to your `<head>` tag:
 `.bg` is Large
 
 ## License and Copyright
-**Licensed under the [MIT License](https://custommarkup.ml/LICENSE)**
+**Licensed under the [MIT License](https://custommarkup.ml/MIT.txt)**
 
 :copyright: **2017 Talon Bragg**
 
