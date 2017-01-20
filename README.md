@@ -79,4 +79,4 @@ Direct Link: Add this to your `<head>` tag:
 
 :copyright: **2017 Talon Bragg**
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)]()
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/talonbrag/Custom-Markup)
