@@ -71,7 +71,7 @@ Direct Link: Add this to your `<head>` tag:
 `.bg` is Large
 
 ## License and Copyright
-**Licensed under the [MIT License](https://custommarkup.ml/MIT.txt)**
+**Licensed under the [MIT License](https://custommarkup.ml/LICENSE)**
 
 :copyright: **2017 Talon Bragg**
 
