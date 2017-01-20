@@ -54,6 +54,8 @@ Direct Link: Add this to your `<head>` tag:
 
 `<cursive>`
 
+`<8-bit>`
+
 `<ghl-s>`
 
 ### Classes
