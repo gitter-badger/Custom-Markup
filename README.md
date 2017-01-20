@@ -54,7 +54,7 @@ Direct Link: Add this to your `<head>` tag:
 
 `<cursive>`
 
-`<8-bit>`
+`<eight-bit>`
 
 `<ghl-s>`
 
