@@ -6,6 +6,8 @@
 ## About
 Custom Markup is a simple, lightweight HTML framework. With Custom Markup, you can customize your webpage without writing messy code. Just link it and your all set. Just read a bit about it though.
 
+View this on [Betapage!](https://betapage.co/product/custom-markup)
+
 ## Changelog
 - **1/20/17**  Add `<eight-bit>`, `<silhouette>`, and `<rainbow>` tags 
 
