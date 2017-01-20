@@ -6,7 +6,6 @@
   "background_color": "#fff",
   "description": "A minimal HTML framework to make your developing day easier.",
   "orientation": "portrait-primary"
-  "lang": "en-US"
   "icons": [{
     "src": "https://custommarkup.ml/css/assets/Custom%20Markup%20Logo.png",
     "sizes": "200x200",
