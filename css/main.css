@@ -113,9 +113,9 @@ a:hover {
 }
 ::selection {
   color: white;
-  background-color: #68c0ff;
+  background: #68c0ff;
 }
 ::moz-selection {
  color: white;
-   background-color: #68c0ff;
+   background: #68c0ff;
 }
