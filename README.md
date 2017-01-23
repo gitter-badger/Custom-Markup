@@ -17,6 +17,15 @@ View this on [Betapage!](https://betapage.co/product/custom-markup)
 Direct Link: Add this to your `<head>` tag:
 
 `<link rel="stylesheet" href="https://custommarkup.ml/dist/cm.min.css">`
+
+## Browser Support
+ Rainbow:
+ 
+ IE 9 & up
+ 
+ Everything Else:
+ 
+ All present browsers supported
 ### Tags
 `<c-r>`
 
