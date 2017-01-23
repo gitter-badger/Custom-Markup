@@ -1,5 +1,5 @@
 # Custom-Markup
-<img src="https://custommarkup.ml/css/assets/Custom%20Markup%20Logo.png">
+<img src="https://custommarkup.ml/img/cm.png">
 
 **A simple and minimal HTML framwork**
 
