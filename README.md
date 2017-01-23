@@ -9,6 +9,7 @@ Custom Markup is a simple, lightweight HTML framework. With Custom Markup, you c
 View this on [Betapage!](https://betapage.co/product/custom-markup)
 
 ## Changelog
+- **1/22/17** Renamed distribution css files, added rainbow text to 404 page, added rainbow subheading to main page
 - **1/20/17**  Add `<eight-bit>`, `<silhouette>`, and `<rainbow>` tags 
 
 ## Documentation
