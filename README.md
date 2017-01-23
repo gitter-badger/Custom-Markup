@@ -18,6 +18,10 @@ Direct Link: Add this to your `<head>` tag:
 
 `<link rel="stylesheet" href="https://custommarkup.ml/dist/cm.min.css">`
 
+Download Custom-Markup:
+
+[Click Here](custommarkup.ml)
+
 ## Browser Support
  Rainbow:
  
@@ -87,9 +91,9 @@ Direct Link: Add this to your `<head>` tag:
 `.bg` is Large
 
 ## License and Copyright
-**Licensed under the [MIT License](https://custommarkup.ml/MIT.txt)**
+**Licensed under the [MIT License](https://custommarkup.ml/LICENSE.txt)**
 
 :copyright: **2017 Talon Bragg**
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/talonbragg/Custom-Markup)
-[![forthebadge](http://forthebadge.com/images/badges/uses-html.svg)](https://github.com/talonbragg/Custom-Markup)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/talonbrag/Custom-Markup)
+[![forthebadge](http://forthebadge.com/images/badges/uses-html.svg)](https://github.com/talonbrag/Custom-Markup)
