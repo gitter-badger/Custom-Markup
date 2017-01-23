@@ -14,7 +14,7 @@ View this on [Betapage!](https://betapage.co/product/custom-markup)
 
 ## Documentation
 Direct Link: Add this to your `<head>` tag:
-`<link rel="stylesheet" href="https://custommarkup.ml/dist/main.min.css">`
+`<link rel="stylesheet" href="https://custommarkup.ml/dist/cm.min.css">`
 ### Tags
 `<c-r>`
 
