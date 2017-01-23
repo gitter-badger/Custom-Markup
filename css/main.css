@@ -119,9 +119,12 @@ a:hover {
  color: white;
    background: #68c0ff;
 }
-.gitimg {
- overflow:hidden;  
-}
 .git-text {
  padding-bottom: 20px;  
+}
+.MCS {
+ text-align: center;  
+}
+.follow {
+ float: center;  
 }
