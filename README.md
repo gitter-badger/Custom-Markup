@@ -29,7 +29,7 @@ Download Custom-Markup:
  
  **Firefox:** 2+ 
  
- **IE:** 10+
+ **IE:** 9+
  
  **Opera:** 9+
  
