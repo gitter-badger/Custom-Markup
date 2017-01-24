@@ -23,13 +23,13 @@ Download Custom-Markup:
 [Click Here](custommarkup.ml)
 
 ## Browser Support
- Rainbow:
+ **Chrome:** 4 - 57
  
- IE 9 & up
+ **Edge:** 12 - 14
  
- Everything Else:
+ **Firefox:** 2 
  
- All present browsers supported
+ **IE:** 10+
 ### Tags
 `<c-r>`
 
