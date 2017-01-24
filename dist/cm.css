@@ -86,6 +86,12 @@ rainbow{
 ghl-s {
     text-decoration:none;
     color: #4078c0;
+    -webkit-transition-duration: .8s;
+    transition-duration:.8s;
+}
+ghl-s:hover {
+    color:#f5f5f5;
+    text-decoration:underline;
 }
 /* classes */
 .sm {
