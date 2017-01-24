@@ -110,7 +110,6 @@ a:hover {
   z-index: 100;
   margin: 0;
   padding: 0;
-  float: right;
 }
 ::selection {
   color: white;
@@ -126,6 +125,11 @@ a:hover {
 .MCS {
  text-align: center;  
 }
-.follow {
- text-align: center;  
+.followers {
+  bottom: 5%;
+  left: 5%;
+  position:fixed;
+  z-index: 100;
+  margin: 0;
+  padding: 0;  
 }
