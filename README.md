@@ -23,13 +23,17 @@ Download Custom-Markup:
 [Click Here](custommarkup.ml)
 
 ## Browser Support
- **Chrome:** 4 - 57
+ **Chrome:** 4+
  
- **Edge:** 12 - 14
+ **Edge:** 12+
  
- **Firefox:** 2 
+ **Firefox:** 2+ 
  
  **IE:** 10+
+ 
+ **Opera:** 9+
+ 
+ **Safari:** 3.1+
 ### Tags
 `<c-r>`
 
