@@ -4,13 +4,13 @@
 **A simple and minimal HTML framwork**
 
 # Table of contents:
-- [About](# About)
-- [Changelog](# Changelog)
-- [Documentation](# Documentation)
-- [Browser Support](# Browser Support)
-- [Tags](# Tags)
+- [About](#About)
+- [Changelog](#Changelog)
+- [Documentation](#Documentation)
+- [Browser Support](#Browser Support)
+- [Tags](#Tags)
 - [Classes](#Classes)
-- [License and Copyright](# License and Copyright)
+- [License and Copyright](#License and Copyright)
 
 ####About
 Custom Markup is a simple, lightweight HTML framework. With Custom Markup, you can customize your webpage without writing messy code. Just link it and your all set. Just read a bit about it though.
