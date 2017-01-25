@@ -33,7 +33,7 @@ View this on [Betapage!](https://betapage.co/product/custom-markup)
  
 Download Custom-Markup:
 
-[Click Here](https://custommarkup.ml)
+[Click Here](https://custommarkup.ml/#download)
 
 # Browser Support
  **Chrome:** 4+
