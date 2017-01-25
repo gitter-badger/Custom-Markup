@@ -12,12 +12,13 @@
 - [Classes](#Classes)
 - [License and Copyright](#LicenseandCopyright)
 <a name="About"></a>
-####About 
+
+#### About 
 Custom Markup is a simple, lightweight HTML framework. With Custom Markup, you can customize your webpage without writing messy code. Just link it and your all set. Just read a bit about it though.
 
 View this on [Betapage!](https://betapage.co/product/custom-markup)
 <a name="Changelog"></a>
-####Changelog 
+#### Changelog 
 - **1/24/17** Added `npm` install
 - **1/23/17** Added 'Follow on GitHub' buttons for **@talonbragg** and **@penetratingshot**, Merged Pull request
 - **1/22/17** Renamed distribution css files, added rainbow text to 404 page, added rainbow subheading to main page, moved images from css/assets to root of /img/
@@ -35,7 +36,7 @@ Download Custom-Markup:
 
 [Click Here](https://custommarkup.ml/#download)
 <a name="BrowserSupport"></a>
-####Browser Support 
+#### Browser Support 
  **Chrome:** 4+
  
  **Edge:** 12+
@@ -48,7 +49,7 @@ Download Custom-Markup:
  
  **Safari:** 3.1+
 <a name="Tags"></a>
-#####Tags 
+##### Tags 
 `<c-r>`
 
 `<c-g>`
@@ -101,14 +102,14 @@ Download Custom-Markup:
 
 `<ghl-s>`
 <a name="Classes"></a>
-####Classes 
+#### Classes 
 `.sm` is Small
 
 `.med` is Medium
 
 `.bg` is Large
 <a name="LiscenseandCopyright"></a>
-####License and Copyright 
+#### License and Copyright 
 **Licensed under the [MIT License](https://custommarkup.ml/LICENSE.txt)**
 
 :copyright: **2017 Talon Bragg**
