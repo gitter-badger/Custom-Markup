@@ -7,23 +7,23 @@
 - [About](#About)
 - [Changelog](#Changelog)
 - [Documentation](#Documentation)
-- [Browser Support](#Browser Support)
+- [Browser Support](#BrowserSupport)
 - [Tags](#Tags)
 - [Classes](#Classes)
-- [License and Copyright](#License and Copyright)
+- [License and Copyright](#LicenseandCopyright)
 
-####About
+####About <a name="About"></a>
 Custom Markup is a simple, lightweight HTML framework. With Custom Markup, you can customize your webpage without writing messy code. Just link it and your all set. Just read a bit about it though.
 
 View this on [Betapage!](https://betapage.co/product/custom-markup)
 
-####Changelog
+####Changelog <a name="Changelog"></a>
 - **1/24/17** Added `npm` install
 - **1/23/17** Added 'Follow on GitHub' buttons for **@talonbragg** and **@penetratingshot**, Merged Pull request
 - **1/22/17** Renamed distribution css files, added rainbow text to 404 page, added rainbow subheading to main page, moved images from css/assets to root of /img/
 - **1/20/17**  Add `<eight-bit>`, `<silhouette>`, and `<rainbow>` tags 
 
-####Documentation
+####Documentation <a name="Documentation"></a>
 **Direct Link**: Add this to your `<head>` tag:
 
 `<link rel="stylesheet" href="https://custommarkup.ml/dist/cm.min.css">`
@@ -35,7 +35,7 @@ Download Custom-Markup:
 
 [Click Here](https://custommarkup.ml/#download)
 
-####Browser Support
+####Browser Support <a name="BrowserSupport"></a>
  **Chrome:** 4+
  
  **Edge:** 12+
@@ -47,7 +47,7 @@ Download Custom-Markup:
  **Opera:** 9+
  
  **Safari:** 3.1+
-#####Tags
+#####Tags <a name="Tags"></a>
 `<c-r>`
 
 `<c-g>`
@@ -100,14 +100,14 @@ Download Custom-Markup:
 
 `<ghl-s>`
 
-####Classes
+####Classes <a name="Classes"></a>
 `.sm` is Small
 
 `.med` is Medium
 
 `.bg` is Large
 
-####License and Copyright
+####License and Copyright <a name="LiscenseandCopyright"></a>
 **Licensed under the [MIT License](https://custommarkup.ml/LICENSE.txt)**
 
 :copyright: **2017 Talon Bragg**
