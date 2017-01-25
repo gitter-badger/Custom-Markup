@@ -29,7 +29,7 @@ View this on [Betapage!](https://betapage.co/product/custom-markup)
 `<link rel="stylesheet" href="https://custommarkup.ml/dist/cm.min.css">`
 
 **Npm:**
- `npm install custommarkup -g`
+ `$ npm install custommarkup -g`
  
 Download Custom-Markup:
 
