@@ -1,0 +1,26 @@
+{
+  "name": "custommarkup",
+  "version": "1.1.0",
+  "description": "A simple, open source, HTML framework ",
+  "main": "C:\\Users\\talon\\Desktop\\custommarkup",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talonbragg/Custom-Markup.git"
+  },
+  "keywords": [
+    "custom",
+    "markup",
+    "custommarkup",
+    "html",
+    "framework"
+  ],
+  "author": "Talon Bragg <pvpgamecrash@gmail.com> (http://custommarkup.ml)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/talonbragg/Custom-Markup/issues"
+  },
+  "homepage": "https://github.com/talonbragg/Custom-Markup#readme"
+}
