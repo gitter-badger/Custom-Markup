@@ -1,0 +1,197 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M112.265 3.959l910.474 910.474-107.536 107.536-910.474-910.474 107.536-107.536z",
+          "M4.725 914.432l910.474-910.474 107.536 107.536-910.474 910.474-107.536-107.536z"
+        ],
+        "attrs": [
+          {},
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "Close"
+        ]
+      },
+      "attrs": [
+        {},
+        {}
+      ],
+      "properties": {
+        "order": 16,
+        "id": 5,
+        "name": "Close",
+        "prevSize": 64,
+        "code": 59648
+      },
+      "setIdx": 0,
+      "setId": 0,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M124.718 527.715l402.423 162.644v125.998l-525.855-243.643v-93.857l525.855-243v126l-402.423 165.858zM738.642 1022.071h-102.217l390.857-1016.357h101.577l-390.217 1016.357zM1678.501 523.857l-424.933-166.501v-122.142l549.001 243v93.857l-549.001 243.645v-123.429l424.933-168.431z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "width": 1810,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "Code (1)"
+        ]
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 11,
+        "id": 4,
+        "name": "Code",
+        "prevSize": 64,
+        "code": 59649
+      },
+      "setIdx": 0,
+      "setId": 0,
+      "iconIdx": 1
+    },
+    {
+      "icon": {
+        "paths": [
+          "M593.346 1024l-588.446-1019.215h1176.89l-588.444 1019.215z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "width": 1187,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "DropDown"
+        ]
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 14,
+        "id": 3,
+        "name": "DropDown",
+        "prevSize": 64,
+        "code": 59650
+      },
+      "setIdx": 0,
+      "setId": 0,
+      "iconIdx": 2
+    },
+    {
+      "icon": {
+        "paths": [
+          "M0 0h1024v189.214h-1024v-189.214z",
+          "M0 417.393h1024v189.214h-1024v-189.214z",
+          "M0 834.785h1024v189.214h-1024v-189.214z"
+        ],
+        "attrs": [
+          {},
+          {},
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "Menu (1)"
+        ]
+      },
+      "attrs": [
+        {},
+        {},
+        {}
+      ],
+      "properties": {
+        "order": 13,
+        "id": 2,
+        "name": "Menu",
+        "prevSize": 64,
+        "code": 59651
+      },
+      "setIdx": 0,
+      "setId": 0,
+      "iconIdx": 3
+    },
+    {
+      "icon": {
+        "paths": [
+          "M311.652 211.478v77.913h-66.783v-77.913h66.783zM378.435 289.391v-77.913h66.783v77.913h-66.783zM345.043 111.304c55.324 0 100.174 44.849 100.174 100.174h-66.783c0-18.441-14.95-33.391-33.391-33.391v-66.783zM345.043 178.087c-18.441 0-33.391 14.95-33.391 33.391h-66.783c0-55.324 44.849-100.174 100.174-100.174v66.783zM311.652 289.391c0 18.442 14.95 33.391 33.391 33.391v66.783c-55.325 0-100.174-44.849-100.174-100.174h66.783zM345.043 322.783c18.441 0 33.391-14.949 33.391-33.391h66.783c0 55.325-44.849 100.174-100.174 100.174v-66.783z",
+          "M228.174 38.957h233.739v-66.783h-233.739v66.783zM651.13 228.174v567.652h66.783v-567.652h-66.783zM461.913 985.043h-233.739v66.783h233.739v-66.783zM38.957 795.826v-567.652h-66.783v567.652h66.783zM228.174-27.826c-141.385 0-256 114.615-256 256h66.783c0-104.501 84.716-189.217 189.217-189.217v-66.783zM461.913 38.957c104.501 0 189.217 84.716 189.217 189.217h66.783c0-141.385-114.616-256-256-256v66.783zM651.13 795.826c0 104.501-84.716 189.217-189.217 189.217v66.783c141.384 0 256-114.615 256-256h-66.783zM228.174 985.043c-104.501 0-189.217-84.716-189.217-189.217h-66.783c0 141.385 114.615 256 256 256v-66.783z"
+        ],
+        "attrs": [
+          {},
+          {}
+        ],
+        "width": 690,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "Scroll Down"
+        ]
+      },
+      "attrs": [
+        {},
+        {}
+      ],
+      "properties": {
+        "order": 12,
+        "id": 1,
+        "name": "Scroll-Down",
+        "prevSize": 64,
+        "code": 59652
+      },
+      "setIdx": 0,
+      "setId": 0,
+      "iconIdx": 4
+    }
+  ],
+  "height": 1024,
+  "preferences": {
+    "showGlyphs": true,
+    "showCodes": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon",
+      "height": 32,
+      "columns": 16,
+      "margin": 16
+    },
+    "historySize": 100
+  }
+}
