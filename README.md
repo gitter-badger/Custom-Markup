@@ -18,9 +18,12 @@ Direct Link: Add this to your `<head>` tag:
 
 `<link rel="stylesheet" href="https://custommarkup.ml/dist/cm.min.css">`
 
+**Npm Download:**
+ `npm install custommarkup -g`
+ 
 Download Custom-Markup:
 
-[Click Here](custommarkup.ml)
+[Click Here](https://custommarkup.ml)
 
 ## Browser Support
  **Chrome:** 4+
