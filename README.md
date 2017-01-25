@@ -11,19 +11,19 @@
 - [Tags](#Tags)
 - [Classes](#Classes)
 - [License and Copyright](#LicenseandCopyright)
-
-####About <a name="About"></a>
+<a name="About"></a>
+####About 
 Custom Markup is a simple, lightweight HTML framework. With Custom Markup, you can customize your webpage without writing messy code. Just link it and your all set. Just read a bit about it though.
 
 View this on [Betapage!](https://betapage.co/product/custom-markup)
-
-####Changelog <a name="Changelog"></a>
+<a name="Changelog"></a>
+####Changelog 
 - **1/24/17** Added `npm` install
 - **1/23/17** Added 'Follow on GitHub' buttons for **@talonbragg** and **@penetratingshot**, Merged Pull request
 - **1/22/17** Renamed distribution css files, added rainbow text to 404 page, added rainbow subheading to main page, moved images from css/assets to root of /img/
 - **1/20/17**  Add `<eight-bit>`, `<silhouette>`, and `<rainbow>` tags 
-
-####Documentation <a name="Documentation"></a>
+<a name="Documentation"></a>
+####Documentation 
 **Direct Link**: Add this to your `<head>` tag:
 
 `<link rel="stylesheet" href="https://custommarkup.ml/dist/cm.min.css">`
@@ -34,8 +34,8 @@ View this on [Betapage!](https://betapage.co/product/custom-markup)
 Download Custom-Markup:
 
 [Click Here](https://custommarkup.ml/#download)
-
-####Browser Support <a name="BrowserSupport"></a>
+<a name="BrowserSupport"></a>
+####Browser Support 
  **Chrome:** 4+
  
  **Edge:** 12+
@@ -47,7 +47,8 @@ Download Custom-Markup:
  **Opera:** 9+
  
  **Safari:** 3.1+
-#####Tags <a name="Tags"></a>
+<a name="Tags"></a>
+#####Tags 
 `<c-r>`
 
 `<c-g>`
@@ -99,15 +100,15 @@ Download Custom-Markup:
 `<rainbow>`
 
 `<ghl-s>`
-
-####Classes <a name="Classes"></a>
+<a name="Classes"></a>
+####Classes 
 `.sm` is Small
 
 `.med` is Medium
 
 `.bg` is Large
-
-####License and Copyright <a name="LiscenseandCopyright"></a>
+<a name="LiscenseandCopyright"></a>
+####License and Copyright 
 **Licensed under the [MIT License](https://custommarkup.ml/LICENSE.txt)**
 
 :copyright: **2017 Talon Bragg**
