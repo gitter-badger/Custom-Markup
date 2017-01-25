@@ -15,11 +15,11 @@ View this on [Betapage!](https://betapage.co/product/custom-markup)
 - **1/20/17**  Add `<eight-bit>`, `<silhouette>`, and `<rainbow>` tags 
 
 ## Documentation
-Direct Link: Add this to your `<head>` tag:
+**Direct Link**: Add this to your `<head>` tag:
 
 `<link rel="stylesheet" href="https://custommarkup.ml/dist/cm.min.css">`
 
-**Npm Download:**
+**Npm:**
  `npm install custommarkup -g`
  
 Download Custom-Markup:
