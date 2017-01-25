@@ -1,7 +1,7 @@
 html { 
    height: 100%;
 }
-body {
+.title {
    margin:0;
    padding:0;
    background: url('https://custommarkup.ml/img/wallpaper.png') no-repeat fixed center;
@@ -132,4 +132,15 @@ a:hover {
   z-index: 100;
   margin: 0;
   padding: 0;  
+}
+@media only screen and (max-device-width: 1024px) {
+   .social {
+    display: none;  
+   }
+   .followers{
+      display: none;
+   }
+   body{
+      overflow: none;
+   }
 }
