@@ -36,7 +36,7 @@ View this on [Betapage!](https://betapage.co/product/custom-markup)
  
 Download Custom-Markup:
 
-[Click Here](https://custommarkup.ml/#download)
+<a href="dist/cm.zip" download></a>
 <a name="BrowserSupport"></a>
 ### Browser Support 
  **Chrome:** 4+
