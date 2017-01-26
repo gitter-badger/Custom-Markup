@@ -19,6 +19,7 @@ Custom Markup is a simple, lightweight HTML framework. With Custom Markup, you c
 View this on [Betapage!](https://betapage.co/product/custom-markup)
 <a name="Changelog"></a>
 ### Changelog 
+- **1/26/17** Changed background on homepage to gradient
 - **1/24/17** Got NPM and updated README.md (this) several times
 - **1/23/17** Added 'Follow on GitHub' buttons for **@talonbragg** and **@penetratingshot**, Merged Pull request
 - **1/22/17** Renamed distribution css files, added rainbow text to 404 page, added rainbow subheading to main page, moved images from css/assets to root of /img/
