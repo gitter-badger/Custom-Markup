@@ -9,6 +9,7 @@ body {
    background: -o-linear-gradient(bottom right, #0d2a59, #1a4ea3); 
    background: -moz-linear-gradient(bottom right, #0d2a59, #1a4ea3);
    background: linear-gradient(to bottom right, #0d2a59, #1a4ea3);
+   background-position:fixed;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: Arial;
