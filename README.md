@@ -14,7 +14,7 @@
 <a name="news"></a>
 
 ###NEWS
-We have just been put on the front page of [betapage](https://betapage.co/product/custom-markup)!
+####**We have just been put on the front page of [betapage](https://betapage.co/product/custom-markup)!**
 <a name="About"></a>
 
 ### About 
