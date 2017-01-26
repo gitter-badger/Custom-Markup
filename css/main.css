@@ -134,8 +134,8 @@ a:hover {
   padding: 0;  
 }
 @media only screen and (max-device-width: 1024px) {
-   .social {
-    display: none;  
+   #social {
+    display: none;
    }
    .followers{
       display: none;
