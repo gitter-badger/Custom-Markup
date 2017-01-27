@@ -37,6 +37,7 @@ View this on [Betapage!](https://betapage.co/product/custom-markup)
 
 **Npm:**
  `$ npm install custommarkup -g`
+ custommarkup v1.1.3
  
 Download Custom-Markup:
 
