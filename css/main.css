@@ -4,11 +4,7 @@ html {
 body {
    margin:0;
    padding:0;
-   background: #0d2a59;   
-   background: -webkit-linear-gradient(left top, #0d2a59, #1a4ea3);
-   background: -o-linear-gradient(bottom right, #0d2a59, #1a4ea3); 
-   background: -moz-linear-gradient(bottom right, #0d2a59, #1a4ea3);
-   background: linear-gradient(to bottom right, #0d2a59, #1a4ea3);
+   background-color: #0d2a59;   
    background-position:fixed;
    background-repeat:none;
 }
