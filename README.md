@@ -102,6 +102,8 @@ Download Custom-Markup:
 
 `<silhouette>`
 
+`<poster>`
+
 `<rainbow>`
 
 `<ghl-s>`
