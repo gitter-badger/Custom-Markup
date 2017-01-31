@@ -1,4 +1,6 @@
 # Custom-Markup
+
+[![Join the chat at https://gitter.im/Custom-Markup/Lobby](https://badges.gitter.im/Custom-Markup/Lobby.svg)](https://gitter.im/Custom-Markup/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/talonbragg/Custom-Markup.svg?branch=master)](https://travis-ci.org/talonbragg/Custom-Markup)
 
 <img src="https://custommarkup.ml/img/cm.png">
