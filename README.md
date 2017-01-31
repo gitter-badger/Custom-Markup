@@ -11,10 +11,6 @@
 - [Tags](#Tags)
 - [Classes](#Classes)
 - [License and Copyright](#LicenseandCopyright)
-<a name="news"></a>
-
-###NEWS
-####**We have just been put on the front page of [betapage](https://betapage.co/product/custom-markup)!**
 <a name="About"></a>
 
 ### About 
