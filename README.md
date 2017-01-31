@@ -1,4 +1,5 @@
 # Custom-Markup
+[![Build Status](https://travis-ci.org/talonbragg/Custom-Markup.svg?branch=master)](https://travis-ci.org/talonbragg/Custom-Markup)
 <img src="https://custommarkup.ml/img/cm.png">
 
 **A simple and minimal HTML framwork**
