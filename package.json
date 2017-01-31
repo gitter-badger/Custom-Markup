@@ -1,26 +1,43 @@
 {
   "name": "custommarkup",
-  "version": "1.1.0",
-  "description": "A simple, open source, HTML framework ",
-  "main": "C:\\Users\\talon\\Desktop\\custommarkup",
+  "filename": "cm.min.css",
+  "version": "1.1.4",
+  "description": "A better way to use HTML",
+  "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Testing\"",
+    "build": "gulp"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/talonbragg/Custom-Markup.git"
   },
-  "keywords": [
-    "custom",
-    "markup",
-    "custommarkup",
-    "html",
-    "framework"
-  ],
-  "author": "Talon Bragg <pvpgamecrash@gmail.com> (http://custommarkup.ml)",
+  "author": "Talon Bragg and Shreyas Lad",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/talonbragg/Custom-Markup/issues"
   },
-  "homepage": "https://github.com/talonbragg/Custom-Markup#readme"
+  "homepage": "https://www.custommarkup.ml",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/talonbragg/Custom-Markup.git",
+    "basePath": "dist",
+    "files": [
+      "cm.min.css",
+      "cm.css"
+    ]
+  },
+  "devDependencies": {
+    "bower": "latest",
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.2.1",
+    "gulp-concat": "latest",
+    "gulp-git": "^1.9.0",
+    "gulp-header": "^1.8.2",
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-minify-css": "latest",
+    "gulp-size": "~0.1.2",
+    "gulp-util": "~2.2.9",
+    "owl-tool": "0.0.3"
+  }
 }
